@@ -1,0 +1,25 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon clase7/server7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauriacunia/coder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lauriacunia/coder/issues"
+  },
+  "homepage": "https://github.com/Lauriacunia/coder#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.3"
+  }
+}
